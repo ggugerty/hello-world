@@ -1,2 +1,5 @@
 # hello-world
-This is a test repository to try GitHub
+
+Hi Everyone!
+
+Gregg here. I like to learn and try new things. I'm learning about GitHub now.
